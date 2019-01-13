@@ -10,5 +10,8 @@
 
 * Logistic Regression
 * K Nearest Neighbors
+* Support Vector Classifier
+* Decision Tree Classifier
+* Random Forest Classifier
 
 Detailed description of Dataset can be found here: https://www.kaggle.com/c/titanic
